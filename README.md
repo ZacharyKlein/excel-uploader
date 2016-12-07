@@ -1,5 +1,9 @@
 # Excel Uploader
-Demo app for the grails-excel-import plugin.
+Demo app for the grails-excel-import plugin: https://github.com/gpc/grails-excel-import
+
+```
+    compile "org.grails.plugins:excel-import:3.0.0.BUILD-SNAPSHOT"
+```
 
 If Grails 3.2.3 is installed on your `PATH`:
 
